@@ -18,5 +18,4 @@ Android Wear is an exciting way to integrate your app more directly into usersâ€
 ## Android Developer Nanodegree
 [![udacity][1]][2]
 
-[1]: ../master/art/nanodegree-logo.png
-[2]: https://www.udacity.com/course/android-developer-nanodegree--nd801
+[1]: https://www.udacity.com/course/android-developer-nanodegree--nd801
